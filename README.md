@@ -32,4 +32,4 @@ expo build:android -t apk
 
 👤 **Kaique Araújo**
 
-<h1 align="center">Feito com ❤️ e TypeScript.</h1>
+<h4 align="center">Feito com ❤️ e TypeScript.</h4>
