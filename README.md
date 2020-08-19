@@ -10,6 +10,8 @@ para facilitar a compreensão do código.
 
 [Vídeo do Clone do PicPay](https://www.youtube.com/watch?v=0CraBZHejKI)
 
+## Instruções para rodar o projeto
+
 ```sh
 
 #Acessar a pasta do projeto
